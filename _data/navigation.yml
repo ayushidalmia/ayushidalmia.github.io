@@ -1,0 +1,18 @@
+# main links
+main:
+ #- title: Research
+ #  url: /research/
+ #- title: Publications
+ #  url: /publications/
+ #- title: Code / Data
+ #  url: /open-source/
+ - title: Resume
+   url: /resume
+ - title: Blog
+   url: /blog
+ #- title: "Sample Posts"
+ #  url: /year-archive/
+ #- title: "Sample Collections"
+ #  url: /collection-archive/
+ #- title: "Sitemap"
+ #  url: /sitemap/
