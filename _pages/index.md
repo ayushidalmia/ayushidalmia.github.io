@@ -9,8 +9,3 @@ Ayushi Dalmia is working as a research enthusiast designing and implementing sol
 
 Over the past few years, she has developed interests in the fields of artifical intelligence, natural language processing, and network analysis while working on a diverse set of project. She finished her masters in Computer Science from IIIT Hyderabad, India.
 
-You can find more about her [here]().
-
-
-What's brewing!
-==============
