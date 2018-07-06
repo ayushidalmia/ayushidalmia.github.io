@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Ayushi Dalmia"
 title_separator          : "-"
 name                     : "Ayushi Dalmia"
-description              : "It is our choices, Harry, that show what we truly are, far more than our abilities."
+description              : 
 url                      : https://ayushidalmia.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ayushidalmia/ayushidalmia.github.io
