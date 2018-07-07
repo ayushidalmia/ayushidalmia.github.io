@@ -7,9 +7,9 @@ description: "Ayushi Dalmia's website"
 permalink: /
 ---
 
-Ayushi Dalmia is working as a research enthusiast designing and implementing solutions in the retail industry, more specifically in fashion. At IBM Research, she is working in the [AI for Fashion](https://cognitivefashion.github.io/) project where she focused on building machines to bridge the gap between online and offline shopping experience.
+Ayushi Dalmia is working as a research engineer, designing and implementing solutions for the retail industry, more specifically in the domain of fashion. At IBM Research, she is working in the [AI for Fashion](https://cognitivefashion.github.io/) project where she is focused on building machines to bridge the gap between online and offline shopping experience.
 
-Over the past few years, she has developed interests in the fields of artifical intelligence, natural language processing, and network analysis while working on a diverse set of project. Her detailed resume can be found [here](https://drive.google.com/file/d/1DCTNXvspLqHxiajsCc6VI9Zub9ZMuqcJ/view?usp=sharing). 
+Over the past few years, she has developed interests in the fields of artifical intelligence, natural language processing, and network analysis while working on a diverse set of problems. Her detailed resume can be found [here](https://drive.google.com/file/d/1DCTNXvspLqHxiajsCc6VI9Zub9ZMuqcJ/view?usp=sharing). 
 
 education and career
 --------------------
