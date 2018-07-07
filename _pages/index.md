@@ -13,10 +13,10 @@ Over the past few years, she has developed interests in the fields of artifical 
 Education and Career
 --------------------
 
-- *IBM Research, India:*  July 2016 - Present
-- *MS by Research, IIIT Hyderabad:* July 2013 - July 2016
-- *Bachelor's in Computer Science and Engineering, Heritage Institute of Technology:* July 2009 - July 2013
-- *CNeRG, IIT Kharagpur:* Summer 2012
+- **IBM Research, India:**  July 2016 - Present
+- **MS by Research, IIIT Hyderabad:** July 2013 - July 2016
+- **Bachelor's in Computer Science and Engineering, Heritage Institute of Technology:** July 2009 - July 2013
+- **CNeRG, IIT Kharagpur:** Summer 2012
 
 
 Publications
