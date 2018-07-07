@@ -2,12 +2,12 @@
 main:
  #- title: Research
  #  url: /research/
- #- title: Publications
+ # - title: Publications
  #  url: /publications/
  #- title: Code / Data
  #  url: /open-source/
- - title: Resume
-   url: /resume
+ #- title: Resume
+ #  url: /resume
  - title: Blog
    url: /blog
  #- title: "Sample Posts"
