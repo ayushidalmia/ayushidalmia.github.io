@@ -39,8 +39,8 @@ publications
   Tanmoy Chakraborty*, Ayushi Dalmia*, Animesh Mukherjee, Niloy Ganguly    
   ACM Computing Surveys (CSUR), 2017
 
-* *Query-based Evolutionary Graph Cuboid Outlier Detection* 
-  Ayushi Dalmia, Manish Gupta, Vasudeva Varma
+* *Query-based Evolutionary Graph Cuboid Outlier Detection*[[paper](https://drive.google.com/open?id=1hKX3Zxx_Zs0ndgNomlVXFNYoLz5-tPkA) | [slides](https://drive.google.com/open?id=1hKX3Zxx_Zs0ndgNomlVXFNYoLz5-tPkA)]        
+  Ayushi Dalmia, Manish Gupta, Vasudeva Varma    
   ICDM Workshop on Data Mining in Networks, 2016, Barcelona, Spain
 
 
@@ -54,7 +54,7 @@ publications
 
 * *Scalable Hierarchical Recommendations Using Spatial Autocorrelation* [[paper](https://drive.google.com/open?id=1iDYykGre7aiTGC9hTtuCPllbbuI8Qq64) | [Slides](https://drive.google.com/open?id=1yJszhFFeweXHhmgvlBeq_8d4sfPzjFgZ) | [Poster](https://drive.google.com/open?id=19205x_BlYlsOZaAqqJ0NSVhKLEHz9Gcr) | [Video](https://www.youtube.com/watch?v=8oPKR0xzdWc) | [Best Poster Award](https://drive.google.com/open?id=12bGR13aASzU5DZEpFKcv8b5jLy_2MfjD)]    
   Ayushi Dalmia, Joydeep Das, Prosenjit Gupta, Subhashis Majumder and Debarshi Dutta    
-  [The Third ASE International Conference on Big Data Science and Computing](http://www.scienceengineering.org/ase/conference/2014/bigdata/beijing/website/), 2014, Beijing, China
+  The Third ASE International Conference on Big Data Science and Computing, 2014, Beijing, China
 
 
 patents
