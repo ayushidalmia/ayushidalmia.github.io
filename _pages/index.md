@@ -44,7 +44,7 @@ publications
   ICDM Workshop on Data Mining in Networks, 2016, Barcelona, Spain
 
 
-* *Query-based Graph Cuboid Outlier Detection* [[paper](https://drive.google.com/open?id=12Nj9ccjIfNn6M3s_23WjGp9vX3NNhRuI)|[slides](https://drive.google.com/open?id=1fo7q4O3Xu-8Wn-b63X0S1hjR3APYC1qU)]    
+* *Query-based Graph Cuboid Outlier Detection* [[paper](https://drive.google.com/open?id=12Nj9ccjIfNn6M3s_23WjGp9vX3NNhRuI) | [slides](https://drive.google.com/open?id=1fo7q4O3Xu-8Wn-b63X0S1hjR3APYC1qU)]    
   Ayushi Dalmia, Manish Gupta, Vasudeva Varma
   [International Conference on Advances in Social Network Analysis and Mining (ASONAM)](https://asonam.cpsc.ucalgary.ca/2015/), 2015, Paris, France    
 
@@ -52,7 +52,7 @@ publications
   [International Workshop on Semantic Evaluation (SemEval)](http://alt.qcri.org/semeval2015/) @ [NAACL](http://naacl.org/naacl-hlt-2015/), 2015, Denver, Colorado    
   Ayushi Dalmia, Manish Gupta, Vasudeva Varma
 
-* *Scalable Hierarchical Recommendations Using Spatial Autocorrelation* [[paper](https://drive.google.com/open?id=1iDYykGre7aiTGC9hTtuCPllbbuI8Qq64) | [Slides](https://drive.google.com/open?id=1yJszhFFeweXHhmgvlBeq_8d4sfPzjFgZ) | [Poster](https://drive.google.com/open?id=19205x_BlYlsOZaAqqJ0NSVhKLEHz9Gcr) | [Video](https://www.youtube.com/watch?v=8oPKR0xzdWc) | [Best Poster Award](https://drive.google.com/open?id=12bGR13aASzU5DZEpFKcv8b5jLy_2MfjD)]    
+* *Scalable Hierarchical Recommendations Using Spatial Autocorrelation* [[paper](https://drive.google.com/open?id=1iDYykGre7aiTGC9hTtuCPllbbuI8Qq64) | [slides](https://drive.google.com/open?id=1yJszhFFeweXHhmgvlBeq_8d4sfPzjFgZ) | [poster](https://drive.google.com/open?id=19205x_BlYlsOZaAqqJ0NSVhKLEHz9Gcr) | [video](https://www.youtube.com/watch?v=8oPKR0xzdWc) | [best poster award](https://drive.google.com/open?id=12bGR13aASzU5DZEpFKcv8b5jLy_2MfjD)]    
   Ayushi Dalmia, Joydeep Das, Prosenjit Gupta, Subhashis Majumder and Debarshi Dutta    
   The Third ASE International Conference on Big Data Science and Computing, 2014, Beijing, China
 
