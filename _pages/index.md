@@ -31,23 +31,23 @@ Publications
   Ayushi Dalmia, Sachindra Joshi, Raghavendra Singh, Vikas C. Raykar    
   International Conference on Information and Knowledge Management (CIKM), 2018
 
-* *Towards Interpretation of Node Embeddings* [[paper](/assets/doc/intnode/paper.pdf)|[slides](assets/doc/intnode/presentation.pdf)]   
+* *Towards Interpretation of Node Embeddings* [[paper](/assets/docs/intnode/paper.pdf)|[slides](/assets/docs/intnode/presentation.pdf)]   
   Ayushi Dalmia, Ganesh J, Manish Gupta    
   [International Workshop on Learning Representations for Big Networks](https://aminer.org/bignet_www2018) @ [WWW](https://www2018.thewebconf.org/), 2018, Lyon, France
 
-* *Metrics for Community Analysis: A Survey* [[paper](/assets/doc/survey/paper.pdf)]    
+* *Metrics for Community Analysis: A Survey* [[paper](/assets/docs/survey/paper.pdf)]    
   Tanmoy Chakraborty*, Ayushi Dalmia*, Animesh Mukherjee, Niloy Ganguly    
   ACM Computing Surveys (CSUR), 2017
 
-* *Query-based Graph Cuboid Outlier Detection* [[paper](/assets/doc/asonamm_v1/paper.pdf)|[slides](/assets/doc/asonamm_v1/presentation.pdf)]    
+* *Query-based Graph Cuboid Outlier Detection* [[paper](/assets/docs/asonamm_v1/paper.pdf)|[slides](/assets/docs/asonamm_v1/presentation.pdf)]    
   [International Conference on Advances in Social Network Analysis and Mining (ASONAM)](https://asonam.cpsc.ucalgary.ca/2015/), 2015, France    
   Ayushi Dalmia, Manish Gupta, Vasudeva Varma
 
-* *Twitter Sentiment Analysis: The good, the bad and the neutral!* [[paper](/assets/doc/semeval/paper.pdf)|[slides](/assets/doc/intnode/presentation.pdf)]    
+* *Twitter Sentiment Analysis: The good, the bad and the neutral!* [[paper](/assets/docs/semeval/paper.pdf)|[slides](/assets/docs/intnode/presentation.pdf)]    
   [International Workshop on Semantic Evaluation (SemEval)](http://alt.qcri.org/semeval2015/) @ [NAACL](http://naacl.org/naacl-hlt-2015/), 2015, Denver, Colorado    
   Ayushi Dalmia, Manish Gupta, Vasudeva Varma
 
-* *Scalable Hierarchical Recommendations Using Spatial Autocorrelation* [[paper](/assets/doc/bignet/paper.pdf) | [Slides](/assets/doc/intnode/presentation.pdf) | [Poster](/assets/doc/intnode/poster.pdf) | [Video](https://www.youtube.com/watch?v=8oPKR0xzdWc) | [Best Poster Award](award.pdf)]    
+* *Scalable Hierarchical Recommendations Using Spatial Autocorrelation* [[paper](/assets/docs/bignet/paper.pdf) | [Slides](/assets/docs/intnode/presentation.pdf) | [Poster](/assets/docs/intnode/poster.pdf) | [Video](https://www.youtube.com/watch?v=8oPKR0xzdWc) | [Best Poster Award](award.pdf)]    
   Ayushi Dalmia, Joydeep Das, Prosenjit Gupta, Subhashis Majumder and Debarshi Dutta    
   [The Third ASE International Conference on Big Data Science and Computing](http://www.scienceengineering.org/ase/conference/2014/bigdata/beijing/website/), 2014, Beijing, China
 
