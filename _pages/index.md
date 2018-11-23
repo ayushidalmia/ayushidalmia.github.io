@@ -9,7 +9,7 @@ permalink: /
 
 Ayushi Dalmia is working as a research engineer, designing and implementing solutions for the retail industry, more specifically in the domain of fashion. At IBM Research, she is working in the [AI for Fashion](https://cognitivefashion.github.io/) project where she is focused on building machines to bridge the gap between online and offline shopping experience.
 
-Over the past few years, she has developed interests in the fields of artifical intelligence, natural language processing, and network analysis while working on a diverse set of problems. Her detailed resume can be found [here](https://drive.google.com/file/d/1pPge_fMLXxsOJSxR_u7G2llodwCM6LGK/view?usp=sharing). 
+Over the past few years, she has developed interests in the fields of artifical intelligence, natural language processing, and network analysis while working on a diverse set of problems. Her detailed resume can be found [here](https://drive.google.com/open?id=1Q0PDz9WztQTw3AZ6FTB6RF6ObqxnbzVJ). 
 
 education and career
 --------------------
@@ -23,9 +23,9 @@ education and career
 publications
 ------------
 
-* *Styling with Attention to Details* (Under Review)    
+* *Styling with Attention to Details*  [[paper](https://arxiv.org/abs/1807.01182)]
   Ayushi Dalmia, Sachindra Joshi, Raghavendra Singh, Vikas C. Raykar    
-  [International Conference on Information and Knowledge Management (CIKM)](http://www.cikm2018.units.it/), 2018, Turin, Italy
+  [Workshop on AI for Fashion](https://kddfashion2018.mybluemix.net/) @ [KDD](http://www.kdd.org/kdd2018/), 2018, London, England
 
 * *Towards Interpretation of Node Embeddings* [[paper](https://drive.google.com/open?id=1i8H17d6sRQBjaeqqQJTdqo7o_bgoaOEI)|[slides](https://drive.google.com/open?id=1MdCd7iQUck5bphd6N035mRFJAr_Y0xtc)]   
   Ayushi Dalmia, Ganesh J, Manish Gupta    
@@ -38,7 +38,6 @@ publications
 * *Query-based Evolutionary Graph Cuboid Outlier Detection*[[paper](https://drive.google.com/open?id=1hKX3Zxx_Zs0ndgNomlVXFNYoLz5-tPkA) | [slides](https://drive.google.com/open?id=1hKX3Zxx_Zs0ndgNomlVXFNYoLz5-tPkA)]        
   Ayushi Dalmia, Manish Gupta, Vasudeva Varma    
   [Workshop on Data Mining in Networks](https://damnet.reading.ac.uk/) @[ICDM](https://icdm2016.eurecat.cat/), 2016, Barcelona, Spain
-
 
 * *Query-based Graph Cuboid Outlier Detection* [[paper](https://drive.google.com/open?id=12Nj9ccjIfNn6M3s_23WjGp9vX3NNhRuI) | [slides](https://drive.google.com/open?id=1fo7q4O3Xu-8Wn-b63X0S1hjR3APYC1qU)]    
   Ayushi Dalmia, Manish Gupta, Vasudeva Varma
@@ -61,9 +60,6 @@ Ayushi Dalmia, Priyanka Agrawal, Raghavendra Singh, Sachindra Joshi, Vikas C. Ra
 
 * *System and Method for Size/Fit based Recommendation while Fashion Shopping* (Filed)    
 Amrita Saha, Priyanka Agrawal, Pankaj S Dayama, Srikanth G Tamilselvam, Vikas C. Raykar, Ayushi Dalmia
-
-* *System for Bidding on Multi-modal subspaces for e-commerce searches* (Filed)    
-Ayushi Dalmia, Priyanka Agarwal, Jaikrishnan Hari, Raghavendra Singh, Sachindra Joshi, Vikas C. Raykar
 
 * *System for Bidding on Multi-modal subspaces for e-commerce searches* (Filed)    
 Ayushi Dalmia, Priyanka Agarwal, Jaikrishnan Hari, Raghavendra Singh, Sachindra Joshi, Vikas C. Raykar
