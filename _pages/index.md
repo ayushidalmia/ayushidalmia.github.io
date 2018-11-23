@@ -23,7 +23,7 @@ education and career
 publications
 ------------
 
-* *Styling with Attention to Details*  [[paper](https://arxiv.org/abs/1807.01182)]
+* *Styling with Attention to Details*  [[paper](https://arxiv.org/abs/1807.01182)]    
   Ayushi Dalmia, Sachindra Joshi, Raghavendra Singh, Vikas C. Raykar    
   [Workshop on AI for Fashion](https://kddfashion2018.mybluemix.net/) @ [KDD](http://www.kdd.org/kdd2018/), 2018, London, England
 
