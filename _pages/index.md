@@ -71,10 +71,10 @@ Ayushi Dalmia, Priyanka Agarwal, Jaikrishnan Hari, Raghavendra Singh, Sachindra 
 * *System and Method for Interactive Visually Guided Deep Search* (Filed)    
 Ashok Pon Kumar, Ayushi Dalmia, Amith Singhee, Digbalay Bose, Sumanta Mukherjee, Raghavendra Singh, Vikas C. Raykar
 
-* *Predict meta-data using visual querying, text similarity and smooth result sets* (To be Filed)
+* *Predict meta-data using visual querying, text similarity and smooth result sets* (To be Filed)    
 Raghavendra Singh, Sachindra Joshi, Vikas C. Raykar, Ayushi Dalmia 
 
-* *Search Insights for assortment planning and buying using visual sketches* (To be Filed)
+* *Search Insights for assortment planning and buying using visual sketches* (To be Filed)    
 Raghavendra Singh, Ayushi Dalmia, Vikas C. Raykar, Abhishek Bansal
 
 * *System and Method for Ranking Trending Item-Sets in E-commerce* (Published)    
