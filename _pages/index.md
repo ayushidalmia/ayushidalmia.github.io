@@ -7,9 +7,13 @@ description: "Ayushi Dalmia's website"
 permalink: /
 ---
 
-Ayushi Dalmia is working as a research engineer, designing and implementing solutions for the retail industry, more specifically in the domain of fashion. At IBM Research, she is working in the [AI for Fashion](https://cognitivefashion.github.io/) project where she is focused on building machines to bridge the gap between online and offline shopping experience.
+Ayushi Dalmia is working as a research engineer at IBM Research. 
 
-Over the past few years, she has developed interests in the fields of artifical intelligence, natural language processing, and network analysis while working on a diverse set of problems. Her detailed resume can be found [here](https://drive.google.com/open?id=1Q0PDz9WztQTw3AZ6FTB6RF6ObqxnbzVJ). 
+Currently, she is working in building innovative solutions for the problem of natural language querying of knowledge bases.
+
+Prior to this she was designing and implementing solutions for the retail industry, more specifically in the domain of fashion. While working in the [AI for Fashion](https://cognitivefashion.github.io/) project she focused on building machines to bridge the gap between online and offline shopping experience.
+
+Over the past few years, she has developed interests in the fields of machine learning, natural language processing, and network analysis while working on a diverse set of problems in the domain of retail and natural language querying. Her detailed resume can be found [here](https://drive.google.com/open?id=1Q0PDz9WztQTw3AZ6FTB6RF6ObqxnbzVJ). 
 
 education and career
 --------------------
@@ -63,6 +67,15 @@ Amrita Saha, Priyanka Agrawal, Pankaj S Dayama, Srikanth G Tamilselvam, Vikas C.
 
 * *System for Bidding on Multi-modal subspaces for e-commerce searches* (Filed)    
 Ayushi Dalmia, Priyanka Agarwal, Jaikrishnan Hari, Raghavendra Singh, Sachindra Joshi, Vikas C. Raykar
+
+* *System and Method for Interactive Visually Guided Deep Search* (Filed)    
+Ashok Pon Kumar, Ayushi Dalmia, Amith Singhee, Digbalay Bose, Sumanta Mukherjee, Raghavendra Singh, Vikas C. Raykar
+
+* *Predict meta-data using visual querying, text similarity and smooth result sets* (To be Filed)
+Raghavendra Singh, Sachindra Joshi, Vikas C. Raykar, Ayushi Dalmia 
+
+* *Search Insights for assortment planning and buying using visual sketches* (To be Filed)
+Raghavendra Singh, Ayushi Dalmia, Vikas C. Raykar, Abhishek Bansal
 
 * *System and Method for Ranking Trending Item-Sets in E-commerce* (Published)    
 Ayushi Dalmia, Priyanka Agarwal, Raghavendra Singh, Sachindra Joshi, Vikas C. Raykar
