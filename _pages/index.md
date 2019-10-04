@@ -7,18 +7,18 @@ description: "Ayushi Dalmia's website"
 permalink: /
 ---
 
-Ayushi Dalmia is working as a research engineer at IBM Research. 
+Ayushi Dalmia is working as a software engineer at IBM Research. 
 
-Currently, she is working in building innovative solutions for the problem of natural language querying of knowledge bases.
+Currently, she is working in building innovative solutions for the problem of natural language querying of structured data.
 
 Prior to this she was designing and implementing solutions for the retail industry, more specifically in the domain of fashion. While working in the [AI for Fashion](https://cognitivefashion.github.io/) project she focused on building machines to bridge the gap between online and offline shopping experience.
 
-Over the past few years, she has developed interests in the fields of machine learning, natural language processing, and network analysis while working on a diverse set of problems in the domain of retail and natural language querying. Her detailed resume can be found [here](https://drive.google.com/open?id=1Q0PDz9WztQTw3AZ6FTB6RF6ObqxnbzVJ). 
+Over the past few years, she has developed interests in the fields of natural language processing, machine learning, deep learning and network analysis while working on a diverse set of problems in the domain of retail and natural language querying. Her detailed resume can be found [here](https://drive.google.com/open?id=1Q0PDz9WztQTw3AZ6FTB6RF6ObqxnbzVJ). 
 
 education and career
 --------------------
 
-- **IBM Research, India:**  July 2016 - Present
+- **Software Engineer - IBM Research, India:**  July 2016 - Present
 - **MS by Research, IIIT Hyderabad:** July 2013 - July 2016
 - **Bachelor's in Computer Science and Engineering, Heritage Institute of Technology:** July 2009 - July 2013
 - **CNeRG, IIT Kharagpur:** Summer 2012
@@ -26,6 +26,9 @@ education and career
 
 publications
 ------------
+* *Unified Semantic Parsing with Weak Supervision*  [[paper](https://www.aclweb.org/anthology/P19-1473/)]    
+  Priyanka Agrawal, Parag Jain, Ayushi Dalmia, Abhishek Bansal, Ashish Mittal, Karthik Sankaranarayanan    
+  [Association for Computational Linguistics](http://www.acl2019.org/EN/index.xhtml), 2019, Florence, Italy
 
 * *Styling with Attention to Details*  [[paper](https://arxiv.org/abs/1807.01182)]    
   Ayushi Dalmia, Sachindra Joshi, Raghavendra Singh, Vikas C. Raykar    
@@ -59,26 +62,50 @@ publications
 patents
 -------
 
-* *Identification of Apparel Based on Body Shape* (Filed)    
+* *Identification of Apparel Based on User Characteristics* [[Link](https://patents.google.com/patent/US20190139120A1/)]
 Ayushi Dalmia, Priyanka Agrawal, Raghavendra Singh, Sachindra Joshi, Vikas C. Raykar
 
-* *System and Method for Size/Fit based Recommendation while Fashion Shopping* (Filed)    
+* *Determining Fit-Based Recommendations For A User* [[Link](https://patents.google.com/patent/US20190197058A1/en)]
 Amrita Saha, Priyanka Agrawal, Pankaj S Dayama, Srikanth G Tamilselvam, Vikas C. Raykar, Ayushi Dalmia
 
-* *System for Bidding on Multi-modal subspaces for e-commerce searches* (Filed)    
+* *System And Method For Multi-Modal Sponsored Search On E-Commerce Platforms* (Filed)    
 Ayushi Dalmia, Priyanka Agarwal, Jaikrishnan Hari, Raghavendra Singh, Sachindra Joshi, Vikas C. Raykar
 
-* *System and Method for Interactive Visually Guided Deep Search* (Filed)    
+* *Visually Guided Query Processing* (Filed)    
 Ashok Pon Kumar, Ayushi Dalmia, Amith Singhee, Digbalay Bose, Sumanta Mukherjee, Raghavendra Singh, Vikas C. Raykar
 
-* *Predict meta-data using visual querying, text similarity and smooth result sets* (To be Filed)    
+* *Generating Metadata For Image-Based Querying* (Filed)    
 Raghavendra Singh, Sachindra Joshi, Vikas C. Raykar, Ayushi Dalmia 
 
-* *Search Insights for assortment planning and buying using visual sketches* (To be Filed)    
+* *Generating Search Determinations For Assortment Planning Using Visual Sketches* (Filed)    
 Raghavendra Singh, Ayushi Dalmia, Vikas C. Raykar, Abhishek Bansal
+
+* *You Only Shoot Once - Dynamic Video And In-Place Advertisement* (Published)
+Ayushi Dalmia, Raghavendra Singh 
 
 * *System and Method for Ranking Trending Item-Sets in E-commerce* (Published)    
 Ayushi Dalmia, Priyanka Agarwal, Raghavendra Singh, Sachindra Joshi, Vikas C. Raykar
 
 * *System and Method for Completing the Look based on Style Rules* (Published)    
 Ayushi Dalmia, Priyanka Agarwal, Jaikrishnan Hari, Raghavendra Singh, Sachindra Joshi, Vikas C. Raykar
+
+
+
+awards
+------
+
+* Received the 2nd IBM Invention Plateau Award in 2019, award recognising prolific inventors. 
+* Received the Outstanding Technical Achievement Award 2019 (highest technical award) for AI for Fashion project.
+* Received the 1st IBM Invention Plateau Award in 2018, award recognising prolific inventors.
+* Received the IBM Invention Plateau Award in 2019, award recognising prolific inventors.
+* IBM Research AI for Fashion Project received an A-level accomplishment in the Innovation category for 2018.
+* Received the Eminence and Excellence Cash Award 2018 for demonstrating the practice - "Listen for need, envision the future", for contributions to applying AI to transform fashion and retail.
+* Received the IBM First Invention Filing Award in 2018, award in recognition for filing first patent.
+* Received  Manager's Choice Award 2018 1H for demonstrating the practice - "Unite to get it done now".
+* Received  Manager's Choice Award 2017 2H for demonstrating the practice - "Put the client first".
+* Received the ACM-W Scholarship for attending ICDM 2016.
+* Best Poster Award at BigData 2014.
+* Secured AIR 553 in the paper Computer Science and Information Technology in GATE 2013.(top 0.25 \%)
+* Founding chair and member of ACM Student Chapter, Heritage Institute of Technology, Kolkata (December, 2011-May, 2013), awarded the Certificate of Service by ACM for the same.
+* Secured departmental rank 4th out of 120 at Heritage Institute of Technology, Kolkata.
+* Received scholarship from Government of India, Ministry of Human Resource Development, Department of Higher Education under the Central Sector Scheme of Scholarships for College and University Students, 2009.
