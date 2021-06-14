@@ -7,18 +7,17 @@ description: "Ayushi Dalmia's website"
 permalink: /
 ---
 
-Ayushi Dalmia is working as a software engineer at IBM Research. 
+Ayushi Dalmia is working as an R&D Engineer at [Text IQ](https://www.textiq.com/). Currently she is working in building solutions to the problem of Personally Identifiable Information detection from structured and unstructured text.
 
-Currently, she is working in building innovative solutions for the problem of natural language querying of structured data.
-
-Prior to this she was designing and implementing solutions for the retail industry, more specifically in the domain of fashion. While working in the [AI for Fashion](https://cognitivefashion.github.io/) project she focused on building machines to bridge the gap between online and offline shopping experience.
+Prior to this, she worked as a Research Engineer at IBM Research where she worked on Semantic Parsing and [AI for Fashion](https://cognitivefashion.github.io/). 
 
 Over the past few years, she has developed interests in the fields of natural language processing, machine learning, deep learning and network analysis while working on a diverse set of problems in the domain of retail and natural language querying. Her detailed resume can be found [here](https://drive.google.com/open?id=1Q0PDz9WztQTw3AZ6FTB6RF6ObqxnbzVJ). 
 
 education and career
 --------------------
 
-- **Software Engineer - IBM Research, India:**  July 2016 - Present
+- ** R&D Engineer - Text IQ, Vancouver:** July 2020 - Present
+- **Research Engineer - IBM Research, India:**  July 2016 - March 2020
 - **MS by Research, IIIT Hyderabad:** July 2013 - July 2016
 - **Bachelor's in Computer Science and Engineering, Heritage Institute of Technology:** July 2009 - July 2013
 - **CNeRG, IIT Kharagpur:** Summer 2012
