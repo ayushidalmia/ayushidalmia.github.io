@@ -16,7 +16,7 @@ Over the past few years, she has developed interests in the fields of natural la
 education and career
 --------------------
 
-- ** R&D Engineer - Text IQ, Vancouver:** July 2020 - Present
+- **R&D Engineer - Text IQ, Vancouver:** July 2020 - Present
 - **Research Engineer - IBM Research, India:**  July 2016 - March 2020
 - **MS by Research, IIIT Hyderabad:** July 2013 - July 2016
 - **Bachelor's in Computer Science and Engineering, Heritage Institute of Technology:** July 2009 - July 2013
